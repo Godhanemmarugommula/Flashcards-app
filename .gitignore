@@ -4,7 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-
+.env
+node_modules/
+**/DS_Store
 # testing
 /coverage
 
